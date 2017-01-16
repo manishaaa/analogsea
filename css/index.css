@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin: 0;
   padding-top: 60px;
+
 }
 
 body * {
@@ -34,6 +35,9 @@ fieldset {
     border-radius: 5px;
     background: white;
 
+}
+.signup-form p {
+  text-align: center;
 }
 
 .signup-form a:hover {
