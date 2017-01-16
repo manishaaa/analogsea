@@ -9,7 +9,8 @@ body {
 body * {
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 fieldset {
