@@ -13,14 +13,6 @@ body * {
   margin-bottom: 30px;
 }
 
-fieldset {
-  font:80%/1 sans-serif;
-  background-color: white;
-  border: none;
-  margin: 0;
-  padding: 0;
-  }
-
   .logo {
     display: block;
     height: 35px;
@@ -53,13 +45,19 @@ fieldset {
     font-size: 35px;
 }
 
+fieldset {
+  background-color: white;
+  border: none;
+  margin: 0;
+  padding: 0;
+  }
+
 input, button {
   width: 320px;
   height: 55px;
   font-size: 18px;
   padding: 15px;
   border: 2px solid gray;
-  color:gray;
 }
 
 button[type='submit'] {
